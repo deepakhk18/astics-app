@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "deepak",
+      "email": "deepak@gmail.com",
+      "phone": "9078654321",
+      "address": "India",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "name": "dd",
+      "email": "dd@gmail.com",
+      "phone": "99007755442",
+      "address": "India",
+      "status": "Inactive",
+      "id": 3
+    },
+    {
+      "name": "Jhon",
+      "email": "J@gmail.com",
+      "phone": "99007755442",
+      "address": "India",
+      "status": "Inactive",
+      "id": 4
+    },
+    {
+      "name": "navya",
+      "email": "navya@gmail.com",
+      "phone": "99007755442",
+      "address": "India",
+      "status": "Inactive",
+      "id": 5
+    },
+    {
+      "name": "d",
+      "email": "d@gmail.com",
+      "phone": "99900886677",
+      "address": "uk",
+      "status": "Active",
+      "id": 6
+    },
+    {
+      "name": "ss",
+      "email": "ss@gmail.com",
+      "phone": "1234",
+      "address": "qwer",
+      "status": "yes",
+      "id": 7
+    }
+  ],
+  "user": [
+    {
+      "name": "d",
+      "email": "d@gmail.com",
+      "password": "1111",
+      "id": 1
+    },
+    {
+      "name": "deepak",
+      "email": "deeepak@gmail.com",
+      "password": "1122",
+      "id": 2
+    },
+    {
+      "name": "pavan",
+      "email": "pavan@gmail.com",
+      "password": "222",
+      "id": 3
+    },
+    {
+      "name": "jhon",
+      "email": "jhon@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "sss",
+      "email": "sss@gmail.com",
+      "password": "123",
+      "id": 5
+    }
+  ]
+}
